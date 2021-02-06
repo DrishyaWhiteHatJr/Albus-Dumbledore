@@ -69,3 +69,25 @@ h1{
 .link:hover{
     background-color: dodgerblue;
 }
+
+html{
+    scroll-behavior: smooth;
+}
+
+#appearencesec{
+    text-align: center;
+}
+
+#wikipedialink{
+    font-size: 25;
+}
+
+#wikipedialink:hover{
+    background-color: darkorange;
+}
+
+.line{
+    width: 200px;
+    height: 5px;
+    background-color: black;
+}
